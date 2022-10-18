@@ -23,3 +23,8 @@ Step 4: Repeat from Step 2 until f(c) reaches near zero.
 ```
 Given f(x) = x<sup>3</sup> + 3x + 2 = 0
 Now, if we take a = -2 and b = 2 we get f(a) = 2 and f(b) = 
+```
+
+## Secant Method:
+
+This is another root finding procedure used in numerical analysis.
