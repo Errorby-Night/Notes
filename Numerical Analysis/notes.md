@@ -1,9 +1,9 @@
 # Numerical Analysis:
 
 ## Contents:
-+ [Introduction](https://github.com/Errorby-Night/Notes/edit/main/Numerical%20Analysis/notes.md#introduction)
-+ [Bisection Method](https://github.com/Errorby-Night/Notes/edit/main/Numerical%20Analysis/notes.md#bisection-method)
-+ [Secant Method](https://github.com/Errorby-Night/Notes/edit/main/Numerical%20Analysis/notes.md#secant-method)
++ [Introduction](#introduction)
++ [Bisection Method](#bisection-method)
++ [Secant Method](#secant-method)
 
 ## Introduction:
 It is the branch of mathematics that provides tools and methods for solving mathematical problems in numerical form. The objective is to develop detailed computational procedures, that can be implemented on electronic computers.
