@@ -22,10 +22,10 @@ x = -b ± $\sqrt{D}$ / 2a
 ## Transformation of the equation:
 
 If p and q are the roots of the equation $ax^2+bx+c = 0$, then the equation whose roots are:
-1. ($1/p, 1/q$) is $cx^2 + bx + a = 0$ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Replace x by 1/x)
+1. $1/p, 1/q$ is $cx^2 + bx + a = 0$ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Replace x by 1/x)
 2. (-p, -q) is $ax^2 - bx + c=0$&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;(Replace x by -x)
 3. (k+p, k+q) is $a(x-k)^2 + b(x-k) + c =0$&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;(Replace x by (x - k))
-4. $p^n, q^n$ is $a(x<sup>(1/n)</sup>)<sup>2</sup> + bx<sup>(1/n)</sup> + c = 0$&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Replace x by x<sup>(1/n)</sup>)
+4. $p^n, q^n$ is a(x<sup>(1/n)</sup>)<sup>2</sup> + bx<sup>(1/n)</sup> + c = 0&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Replace x by x<sup>(1/n)</sup>)
 5. p<sup>(1/n)</sup>, q<sup>(1/n)</sup> is $a(x^n)^2 + bx^n + c = 0$&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;(Replace x by x<sup>(n)</sup>)
 6. $kp, kq$ is $ax^2 + kbx + k^2 c = 0$ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;(Replace x by x/k)
 7. $p/k, q/k$ is $k^2 ax^2 + kbx + c = 0$&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Replace x by kx)
