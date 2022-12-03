@@ -46,11 +46,17 @@ plt.show()
 ```
 
 ### Example:
-```
-Given f(x) = x<sup>3</sup> + 3x + 2 = 0
-Now, if we take a = -2 and b = 2 we get f(a) = 2 and f(b) = 
-```
+
+
+Given f(x) = $x^3 + 3x - 2 = 0$
+Now, if we take a = -1 and b = 1 we get f(a) = -2 and f(b) = 2
+Then we compute $c = (-1 + 1) / 2 = 0$
+Similarily f(c) = -2. Since it is lesser than 0, we replace b as c. Therefore the roots now become -1 and 0. This process is continued till we reach close to the root, which in this case is approximately $0.596$.
+
+
 
 ## Secant Method:
 
-This is another root finding procedure used in numerical analysis.
+This is another root finding procedure used in numerical analysis. It has the following formula:
+
+$c = b - ((f(b)*(b - a))/(f(b)-f(a))$
