@@ -50,7 +50,8 @@ plt.show()
 
 Given f(x) = $x^3 + 3x - 2 = 0$
 Now, if we take a = -1 and b = 1 we get f(a) = -2 and f(b) = 2
-Then we compute $c = (-1 + 1) / 2 = 0$
+Then we compute $c = (-1 + 1) / 2 = 0$.
+
 Similarily f(c) = -2. Since it is lesser than 0, we replace b as c. Therefore the roots now become -1 and 0. This process is continued till we reach close to the root, which in this case is approximately $0.596$.
 
 
@@ -60,3 +61,11 @@ Similarily f(c) = -2. Since it is lesser than 0, we replace b as c. Therefore th
 This is another root finding procedure used in numerical analysis. It has the following formula:
 
 $c = b - ((f(b)*(b - a))/(f(b)-f(a))$
+
+### Algorithm:
+```
+Step 1: Take two initial estimations a and b
+Step 2: Compute c, $c =  b - ((f(b)*(b - a))/(f(b)-f(a))$
+Step 3: Update a = b, b = c
+Step 4: Keep repeating Step 3 until f(c) reaches below tolerable error.
+```
